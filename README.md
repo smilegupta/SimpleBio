@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
 
-#### Sometimes, creating an attractive bio is essential. Here's an exapmle of sample and basic bio signature [example]( https://smilegupta.github.io/SimpleBio) to realize that the signature can be not boring, but eye-catching, elegant and recognizable.
+#### Sometimes, creating an attractive bio is essential. Here's an exapmle of sample and basic bio signature [example]( https://smilegupta.github.io/SimpleBio/) to realize that the signature can be not boring, but eye-catching, elegant and recognizable.
 
 ## Usage
 
