@@ -14,7 +14,7 @@ Clone [this](https://github.com/smilegupta/SimpleBio) repository and edit `index
 
 git clone https://github.com/smilegupta/SimpleBio/ 
 
-open html.html
+open index.html
 
 ```
 
